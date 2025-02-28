@@ -1,2 +1,3 @@
 contains the first file
 contains another line for the first file, second commit
+contains third line
