@@ -3,3 +3,7 @@ contains another line for the first file, second commit
 contains third line
 contains fourth line
 contains 5th line
+
+add another commit test just to make sure
+another commit
+another commit 2
